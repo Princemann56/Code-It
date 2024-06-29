@@ -48,5 +48,18 @@ Code-It is a search engine designed to help users find coding problems. Using th
 - Use the search bar to input your coding problem queries.
 - Browse through the search results to find relevant coding problems.
 
+## Future scope
+- We can add a cache layer before the user query hits the server to reduce the
+response time.
+- We can look into something known as Sharding (DBMS Concept) which allows
+us to perform searches over different sets of data concurrently.
+- In future we can add a feature to add new questions to our database and then in
+order to update the indexes (TF-IDF values) we can run a Cron Job which runs
+every 24 hours to produce the updated index files.
+
+
+
 ## Contribution Guidelines
 I welcome contributions to Code-It! If you have any ideas, feel free to fork the repository and submit a pull request. Please make sure your contributions align with the project's goals and follow the established coding standards.
+
+
