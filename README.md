@@ -10,13 +10,6 @@ Code-It is a search engine designed to help users find coding problems. Using th
 - **Client:** EJS
 - **Server:** Node, Express
 
-## Features
-1. Developed a high-performance search engine using the MERN stack, incorporating modern web technologies to deliver a seamless user experience.
-2. Scraped and processed a diverse dataset of 3,500 problems from leading coding platforms (LeetCode, InterviewBit, Codeforces) using Selenium, ensuring a comprehensive collection of programming challenges.
-3. Implemented robust edge case handling techniques, including converting numbers to words and vice versa, lemmatization, spell-checking, camel case to words conversion, to generate relevant keywords from user query strings.
-4. Utilized the BM25 algorithm and TF-IDF indexes to rank documents efficiently against query strings, and optimized search speed by leveraging RAM-based indexes and efficient data structures to enhance search performance.
-5. Incorporated custom scoring metrics, including title matching and source reliability, to further enhance search relevance and user experience, ensuring accurate and trustworthy results appear prominently.
-
 ## Demo
 ### Home Page
 ![Home Page](./public/Screenshot%202024-06-29%20172555.png)
