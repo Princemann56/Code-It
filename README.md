@@ -8,7 +8,7 @@ Code-It is a search engine designed to help users find coding problems. Using th
 
 ## Tech Stack
 - **Client:** EJS
-- **Server:** Node, Express, AWS
+- **Server:** Node, Express
 
 ## Features
 1. Developed a high-performance search engine using the MERN stack, incorporating modern web technologies to deliver a seamless user experience.
